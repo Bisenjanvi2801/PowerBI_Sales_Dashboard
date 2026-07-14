@@ -57,6 +57,16 @@ This project is an interactive Sales Performance Dashboard developed using Micro
 
 ---
 
+## 📈 Business Insights
+
+- Sales performance can be monitored across different products and regions.
+- Product Details dashboard helps identify top-performing products.
+- DAX measures demonstrate advanced calculations for business reporting.
+- Interactive filters enable users to analyze sales by multiple dimensions.
+- KPI cards provide quick visibility into overall business performance.
+
+---
+
 ## 👩‍💻 Author
 
 **Janvi Bisen**
